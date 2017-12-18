@@ -1,0 +1,14 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "aws-sdk": "*",
+    "express": "^3.4.0",
+    "jade": "^1.11.0",
+    "nodemon": "^1.12.5"
+  }
+}
